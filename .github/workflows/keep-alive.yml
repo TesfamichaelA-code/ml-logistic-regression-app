@@ -13,4 +13,4 @@ jobs:
       - name: Ping backend
         run: |
           echo "Pinging backend..."
-          curl -s https://github.com/TesfamichaelA-code/ml-logistic-regression-app/health
+          curl -s https://ml-logistic-regression-app.onrender.com/health
